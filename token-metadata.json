@@ -1,0 +1,6 @@
+{
+  "name": "spl-collateralMint",
+  "symbol": "SPL-LB",
+  "description": "SPL token for devnet",
+  "attributes": []
+}
