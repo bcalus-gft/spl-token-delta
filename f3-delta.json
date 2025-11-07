@@ -1,0 +1,12 @@
+{
+  "name": "DELTA TOKEN FUND3 UAT",
+  "symbol": "DeltaU3",
+  "description": "Devnet spl token for internal transaction",
+  "external_url": "https://ldmt-uat.libeara.com/vault",
+  "attributes": [
+    {
+      "decimals": 6
+    }
+  ],
+  "uri": ""
+}
