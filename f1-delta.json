@@ -1,0 +1,12 @@
+{
+  "name": "DELTA TOKEN FUND1 DEV",
+  "symbol": "DeltaD1",
+  "description": "Devnet spl token for internal transaction",
+  "external_url": "https://ldmt-dev.libeara.com/vault",
+  "attributes": [
+    {
+      "decimals": 6
+    }
+  ],
+  "uri": ""
+}
