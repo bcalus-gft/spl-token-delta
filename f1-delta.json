@@ -2,11 +2,12 @@
   "name": "DELTA TOKEN FUND1 DEV",
   "symbol": "DeltaD1",
   "description": "Devnet spl token for internal transaction",
-  "external_url": "https://ldmt-dev.libeara.com/vault",
+  "image": "https://raw.githubusercontent.com/bcalus-gft/spl-token-delta/main/logo.png",
+  "external_url": "https://ldmt-uat.libeara.com/vault",
   "attributes": [
     {
-      "decimals": 6
+      "trait_type": "decimals",
+      "value": 6
     }
-  ],
-  "uri": ""
+  ]
 }
